@@ -36,3 +36,11 @@ section#computador {
     background: url(../imagens/frame-computador.png) no-repeat;
 
 }
+
+iframe#tela {
+    position: relative;
+    top: 63px;
+    left: 126px;
+    height: 145px;
+    width: 220px;
+}
